@@ -3,3 +3,4 @@ TgCrypto
 umongo
 dnspython
 heroku3
+git+https://github.com/subinps/pyrogram@inline-m
